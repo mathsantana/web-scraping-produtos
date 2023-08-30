@@ -1,4 +1,4 @@
-# Web Scraping + Site
+# Web Scraping de produtos + Site
 
 Visualize o menor preço dos supermercados da sua região! No projeto, utilizaremos a cidade de Petrolina-PE e os supermercados da região para buscar os produtos.
 
